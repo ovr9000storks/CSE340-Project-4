@@ -1,0 +1,13 @@
+
+i, j, k ;
+{
+input k ;
+SWITCH k {
+    CASE 1 : { i = 21; }
+    CASE 2 : { i = 23; }
+    CASE 3 : { i = 25; }
+    DEFAULT : { i = 100; }
+}
+output i ;
+}
+100 101 102

@@ -1,0 +1,37 @@
+
+a , b , c, d ;
+
+{
+input a;
+a = 4 ; 
+b = 2 ;
+a = a + b ;
+output a;
+output b ;
+input d;
+b = a - b ; 
+output a;
+output b;
+a = a/b;
+output a;
+output b;
+a = a*b;
+output a;
+output b;
+c = 3  ;
+d = 1  ;
+a = a /c ;
+output a;
+output b;
+output c;
+d = c - b ;
+input c; 
+output c ;
+output d ;
+a = a/c;
+output a;
+output b;
+output c;
+output d;
+}
+9 15 3 2 4 5

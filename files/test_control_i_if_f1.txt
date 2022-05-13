@@ -1,0 +1,16 @@
+
+a , b ;
+{
+input a;
+input b;
+input a;
+IF  b > a 
+{
+	IF b > a 
+	{
+		output a ;
+	}
+}
+
+}
+11 9 5 3 4 5

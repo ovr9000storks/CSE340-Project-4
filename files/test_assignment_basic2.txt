@@ -1,0 +1,16 @@
+
+a , b  ;
+
+{
+a = 457 ;
+b = 221 ; 
+input a;
+output a ;
+output b ;
+input b;
+a = 65537 ; 
+b = 12481632 ; 
+output a ;
+output b ;
+}
+9 18 2

@@ -1,0 +1,11 @@
+
+a , b ;
+{
+a = a + b  ;
+a = a + b  ;
+input a;
+output a ;
+b = b + 90;
+output b ;
+}
+2 3

@@ -1,0 +1,15 @@
+
+a , b ;
+
+{
+input a;
+input b;
+IF  b > a 
+{
+	IF a > b {
+		output a;
+	}
+}
+
+}
+900293 2948592
